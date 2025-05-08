@@ -77,7 +77,6 @@ You'll need ``python >=3.9, <3.13``.
 
         make install-skore
 
-
 Choosing an issue
 -----------------
 
@@ -119,7 +118,6 @@ To run the tests locally, you may run:
 
     make test
 
-
 Linting
 -------
 
@@ -128,7 +126,6 @@ We use the linter ruff to make sure that the code is formatted correctly:
 .. code-block:: bash
 
     make lint
-
 
 Documentation
 =============
